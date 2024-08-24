@@ -6,7 +6,6 @@
 	04/03/2023	Cambios en la retraccion. nueva rutina half_open_OBTURADOR_boquilla
 	07/04/2023  Reordenacion de banderas para identificar versiones de maquina MULTIMAT_PRINTER+O
 	01/06/2024	Retomo la version MULTIMAT Cartucho+Obturador. esta vez con electroiman en vez de motor
-	
 	##########################################################################################
 	
   Marlin Firmware
